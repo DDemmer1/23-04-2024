@@ -13,6 +13,13 @@ public class Bankkonto {
 		this.kontoinhaber = kontoinhaber;
 		this.iban = iban;
 	}
+
+
+
+	@Override
+	public String toString() {
+		return "Bankkonto [guthaben=" + guthaben + ", kontoinhaber=" + kontoinhaber + ", iban=" + iban + "]";
+	}
 	
 
 	
