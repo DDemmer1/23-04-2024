@@ -1,5 +1,7 @@
 package de.demmer.dennis;
 
+//Das ist eine neue Version
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
